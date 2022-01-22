@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @averagejavastudent
-- 👀 I’m interested in, gaming development and computer science
 - 🌱 I’m currently learning HTML and JavaScript
 
 <!---
